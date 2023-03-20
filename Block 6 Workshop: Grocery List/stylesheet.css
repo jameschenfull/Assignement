@@ -19,15 +19,15 @@ li {
 img {
     background-color: rgb(180, 213, 189);
     max-width: 200px;
-height: auto;
-border: 5px solid green;
-  padding: 20px;
-  margin: 20px;
+    height: auto;
+    border: 5px solid green;
+    padding: 20px;
+    margin: 20px;
 }
 div {
     background-color: rgb(180, 213, 189);
-  width: 200px;
-  border: 5px solid green;
-  padding: 20px;
-  margin: 20px;
+    width: 200px;
+    border: 5px solid green;
+    padding: 20px;
+    margin: 20px;
 }
